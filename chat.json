@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Free Arraows' button to be positioned within the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What color and style do you envision for the 'Free Arraows' button?\", \"option1\": \"Bright and eye-catching\", \"option2\": \"Subtle and minimalist\"}], \"input_token_count\": 296, \"output_token_count\": 100, \"time_taken\": \"0:00:01.504725\"}",
+        "message_id": "guest03092024104511",
+        "timestamp": "03092024104534",
+        "component_file_name": "simple_cta_component_1725360242",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll add a button labeled Free Arraows.",
         "message_id": "guest03092024104511",
