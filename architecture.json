@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a button with text Free Arraows\n\nThis is the user's current request of changes to be made:\nadd a button with text Free Arraows"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a button with text Zip\nAI: Okay, I'll add a button labeled Free Arraows.\nUser: add a button with text Free Arraows\n\nThis is the user's current request of changes to be made:\nadd a button with text Zip"
     }
 ]
