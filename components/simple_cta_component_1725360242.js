@@ -24,6 +24,9 @@ INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a 
                     <a id="free-arrows-button" href="#" class="flex-1 text-purple-700 bg-white hover:bg-gray-100 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 border border-purple-700 focus:outline-none">
                         Free Arraows
                     </a>
+                    <a id="zip-button" href="#" class="flex-1 text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-green-500 dark:hover:bg-green-600 focus:outline-none dark:focus:ring-green-800">
+                        Zip
+                    </a>
                 </div>
             </div>
         </div>
