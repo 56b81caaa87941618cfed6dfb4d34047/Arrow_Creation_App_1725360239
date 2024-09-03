@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with text 'Zip'\", \"checked\": true}, {\"feature\": \"Include tooltips for buttons\", \"checked\": false}, {\"feature\": \"Create customizable button colors\", \"checked\": false}, {\"feature\": \"Implement button hover effects\", \"checked\": true}, {\"feature\": \"Add a confirmation modal for critical actions\", \"checked\": false}, {\"feature\": \"Enable button accessibility options\", \"checked\": true}], \"input_token_count\": 270, \"output_token_count\": 104, \"time_taken\": \"0:00:01.309350\"}",
+        "timestamp": "03092024104638",
+        "message_id": "guest03092024104603"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Zip' button to be placed in the app interface?\", \"option1\": \"At the top of the main screen\", \"option2\": \"At the bottom near other buttons\"}, {\"question 2\": \"What action should be triggered when the 'Zip' button is clicked?\", \"option1\": \"Download a file\", \"option2\": \"Open a new screen\"}], \"input_token_count\": 316, \"output_token_count\": 95, \"time_taken\": \"0:00:01.704022\"}",
         "timestamp": "03092024104635",
