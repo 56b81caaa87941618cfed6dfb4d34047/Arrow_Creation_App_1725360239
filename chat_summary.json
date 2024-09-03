@@ -12,5 +12,11 @@
         "content": "Okay, I'll add a button labeled Free Arraows.",
         "timestamp": "03092024104512",
         "message_id": "guest03092024104511"
+    },
+    {
+        "role": "user",
+        "content": "add a button with text Free Arraows",
+        "timestamp": "03092024104511",
+        "message_id": "guest03092024104511"
     }
 ]
