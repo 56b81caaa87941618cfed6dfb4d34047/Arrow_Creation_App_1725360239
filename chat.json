@@ -15,5 +15,14 @@
         "component_file_name": "",
         "div_id": "",
         "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button with text Free Arraows",
+        "message_id": "guest03092024104511",
+        "timestamp": "03092024104511",
+        "component_file_name": "simple_cta_component_1725360242",
+        "div_id": "",
+        "div_action": ""
     }
 ]
